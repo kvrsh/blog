@@ -20,5 +20,7 @@ Would a similar mechanism work for _public_ speech? I mean, probably not.
 
 I don't think it's crazy to ponder on restrictions of speech when applied to public online speech platforms (and perhaps to an extend to private ones, since the line can sometimes be blurry).
 
+Perhaps a deeper problem is to ask what those "mainstream views" are. Considering recent events (and most of History if we think about it), it's not clear to me that such things exist within Humanity at large. That being said, within small (e.g. academic) communities, that such views exists seems fairly plausible, and healthy.
+
 
 [^1] there are unfortunately lots of barriers for people to actually enter politics, usually especially people who would benefit the most from political change.
