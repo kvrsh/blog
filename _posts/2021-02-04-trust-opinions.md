@@ -3,7 +3,7 @@ title: "The fine balance of trust, opinions, and action"
 date: 2021-02-04
 ---
 
-I came across [this Farnam Street blog post](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/) a while ago, and it's been bothering me, quietly yanking at my brain.
+A while ago I came across [this Farnam Street blog post](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/) on the work required to hold an opinion, and it's been bothering me, quietly yanking at my brain.
 
 I think this post argues something interesting, on the surface. It basically argues that we shouldn’t really hold opinions unless we put in the work to understand those opinions, or to sum up:
 > The work required to hold an opinion means that you can argue against yourself better than others can.
