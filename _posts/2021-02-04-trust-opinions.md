@@ -36,4 +36,6 @@ So when should we be wary of our own default beliefs? Well, that is often going 
 
 Some people whine a lot for no reason other than entitlement, but I’ve found that most of the time, it’s simpler to trust people who are telling you that they’re suffering. You don’t even always have to trust what they say: economic stress is often cited as a cause of the rise white nationalism for example, but I trust that they are suffering. This suffering should cause us to reflect on our default beliefs.
 
-Right. I think it’s ok to hold opinions based on trust, it’s good to reflect on them once in a while. It’s necessary to understand which of our beliefs affect the actions that affect the world the most, and to especially reflect (to “do the work”) on those. It's all a fine balance of course.
+I think it’s ok to hold opinions based on trust, it’s good to reflect on them once in a while. It’s necessary to understand which of our beliefs affect the actions that affect the world the most, and to especially reflect (to “do the work”) on those. It's all a fine balance of course.
+
+Perhaps on a closing note, and tangent, I think it's very valuable to understand how opinions are formed, and how people (often badly) argue. This skill can be applied regardless of the "work" done on our beliefs. A bad argument for a good belief doesn't make the good belief bad, let's not turn into logic bros, but it should make us wary. 
