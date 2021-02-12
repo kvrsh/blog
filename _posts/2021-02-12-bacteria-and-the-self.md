@@ -35,7 +35,7 @@ We already kind of do this, but I'd argue we don't always go the full way. Let's
 - are commonly thought of as entities
 - are formed of many invididuals that cooperate
 - have goals and desires (policies and trade agreements)
-- sacrifice some individuals for the benefit of the collective (soldiers, and other dangerous "necessary" occupations)
+- sacrifice some individuals for the benefit of the collective (soldiers, and other dangerous "necessary" occupations; low-pay immigrants who do jobs that citizens won't do)
 
 I think we do a good job of anthropomorphising countries, but at the same time we fail to do so entirely. We know and conceive of countries and their goals as being orchestrated through democracy, politics, leaders, elected or not. But these mechanisms are not all powerful. Momentum, history, the lack of cooperation between citizens of a country (autoimmune reactions?), lots of things come together which sometimes force countries not to act in their apparent self-interest. More than that, these things are likely to push individuals to perform certain actions that are against their self-interest. 
 
@@ -53,8 +53,21 @@ Let's pause the socio-political commentary for now.
 
 ### Computation and the self
 
+This part is very much a tangent and me just throwing thoughts out there.
+
 One of the interesting aspects of this cooperation that Michael Levin points out is that when multiple organisms come together, their computational capacity grows, sometimes superlinearly.
 
-This neatly seems to come together for _artificial_ neural networks. Readers familiar with [scaling laws](https://arxiv.org/abs/2001.08361) and [neural complexity measures](https://arxiv.org/abs/1402.1869) might point out that networks neurons, at least artificial ones, can come together in suprising and exponentially powerful ways.
+This neatly seems to come together for _artificial_ neural networks. Readers familiar with [scaling laws](https://arxiv.org/abs/2001.08361) and [neural complexity measures](https://arxiv.org/abs/1402.1869) might point out that networks of neurons, at least artificial ones, can come together in suprising and exponentially powerful ways.
 
+Where the analogy fails is that artifical neural networks aren't _really_ different organisms cooperating. They are trained top-down from a single source of information which controls everything (although in a sense this does induce some "cooperation" between parameters, inducing more [degrees of freedom](https://arxiv.org/abs/1603.09260) in the optimization process the more parameters there are).
 
+This is nonetheless illustrative of something. If, when perfectly orchestrated, neurons can learn amazing things, it's likely that there are other non-top-down learning mechanisms that achieve the same thing.
+
+The key ingredients seem to be:
+- have multiple organisms
+- each organism cannot distinguish its own state from its neighbours'
+- each organism maximizes some kind of reward, or follows some kind of instincts
+
+Why would this induce more computational capabilities?  Perhaps this is a case where conditional computation and mixture of experts are a useful analogy, each organism (module) performs some subcomputation that together computes something interesting. Bacteria computing danger would certainly benefit from coordinating and being able to indentify more complex patterns than any particular bacteria can detect. This is the evolutionary story, but can we reproduce this creation of a Self algorithmically? Is there a middle ground between the top-down orchestration of artifical neural networks and living organisms' nervous systems?
+
+I don't know, but I'm happy to [hear](https://twitter.com/KvrshAto) your thoughts! 
