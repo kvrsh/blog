@@ -45,7 +45,7 @@ Of course this is a leaky concept, leakier that that of a multicelluar organism.
 
 When companies become so big that no one is really "in charge", and its only objective is profit, does it not become some kind of Self? Its goal for profit is often misaligned with the individual goals of its constituents (save for a few of course).
 
-When some claim that [Earth is a superorganism](https://en.wikipedia.org/wiki/Superorganism), they are alluding to this concept. 
+When some (like [Vladimir Vernadsky](https://en.wikipedia.org/wiki/Vladimir_Vernadsky)) claim that [Earth is a kind of superorganism](https://en.wikipedia.org/wiki/Superorganism), they are alluding to this concept. 
 
 When anti-capitalists point out that capitalism is self-reproducing (pardon the lack of references, perhaps Mark Fisher?), they are alluding to this concept. Humans in our era tend to be organised under the Self of capitalism, and this Self tends to want to grow bigger and "eat" non-capitalist parts of the world, even though the individuals composing it don't necessarily want that (although sometimes they do).
 
