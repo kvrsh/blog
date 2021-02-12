@@ -68,6 +68,6 @@ The key ingredients seem to be:
 - each organism cannot distinguish its own state from its neighbours'
 - each organism maximizes some kind of reward, or follows some kind of instincts
 
-Why would this induce more computational capabilities?  Perhaps this is a case where conditional computation and mixture of experts are a useful analogy, each organism (module) performs some subcomputation that together computes something interesting. Bacteria computing danger would certainly benefit from coordinating and being able to indentify more complex patterns than any particular bacteria can detect. This is the evolutionary story, but can we reproduce this creation of a Self algorithmically? Is there a middle ground between the top-down orchestration of artifical neural networks and living organisms' nervous systems?
+Why would this induce more computational capabilities?  Perhaps this is a case where conditional computation and mixture of experts are a useful analogy, each organism (module) performs some subcomputation that together computes something interesting. Bacteria computing danger would certainly benefit from coordinating and being able to indentify more complex patterns than any particular bacteria can detect. This is the evolutionary story, but can we reproduce this creation of a Self algorithmically? Is there a middle ground between the top-down orchestration of artifical neural networks and living organisms' evolved nervous systems?
 
 I don't know, but I'm happy to [hear](https://twitter.com/KvrshAto) your thoughts! 
